@@ -1,1 +1,7 @@
-.Kaardimäng.iml /n out
+/bin/
+.project
+.classpath
+*~
+*.swp
+*.bak
+*.tmp
