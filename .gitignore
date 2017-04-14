@@ -1,9 +1,1 @@
-
-/bin/
-.project
-.classpath
-*~
-*.swp
-*.bak
-*.tmp
-
+*.iml
